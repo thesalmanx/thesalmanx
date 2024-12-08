@@ -1,4 +1,4 @@
-# 💫 About Me:
+import Developer from './Developer';
 🎓 7th Semester Computer Engineering student.  <br>🔧 I love building scalable, data-driven apps with intuitive user experiences.<br>📟 My Tech Stack Next.js, GraphQL, PostgreSQL, Docker, Python, Convex<br>⚡️ I'm currently focusing on building a natural language-based relational database querying engine - AskDB<br>
 
 
