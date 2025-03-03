@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Salman - Next.js enthusiast, React Native | Computer Engineer
+# 🧑🏽‍💻 Salman - Next.js , React Native | Computer Engineer
 💻 Computer Engineer specializing in Next.js and React Native<br>🕸️ Passionate about designing scalable, data-driven applications with intuitive user experiences. <br>💼 Explore my portfolio at salmann.dev.
 
 <div align="center">
