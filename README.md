@@ -1,5 +1,5 @@
-# 🧑🏽‍💻 Salman - Computer Engineer | Next.js & Typescript | React Native | Full Stack Engineer
-💻 Computer Engineer specializing in Next.js and React Native<br>🕸️ Passionate about designing scalable, data-driven applications with intuitive user experiences. <br>💼 Explore my portfolio at salmann.dev.
+## 🧑🏽‍💻 Salman - Computer Engineer | Next.js & Typescript | React Native | Full Stack Engineer
+🕸️ Passionate about designing scalable, data-driven applications with intuitive user experiences. <br>💼 Explore my portfolio at salmann.dev.
 
 <div align="center">
 
